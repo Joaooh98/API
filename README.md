@@ -57,6 +57,3 @@
 
     CONSULTAR NESSE SITE OS STATUS DAS RESPOSTAS 
     https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
-
-
-# API
