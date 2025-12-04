@@ -1,4 +1,4 @@
-# API, REST e RESTFULL
+# API, REST e RESTFULL.
 
 ## API (Application Programming Interface) Interface de Programação de Aplicação
 
